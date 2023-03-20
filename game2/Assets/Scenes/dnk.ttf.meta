@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 76cafd559155bbf4b960be56c9c5dfb0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Damn Noisy Kids
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d4239b8a40326854f8e8f95b5b6db2ea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/levelsahne.unity
+    guid: 0d8268d4ff5e5ba4dbff082dd24e6066
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm1/sahne8/sahne8.unity"
+    guid: 6ab55b30c1236f84aaebe7e9bc2762ef
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm1/sahne9/sahne9.unity"
+    guid: 6cc62c86acef9cb45981410f79669530
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm1/sahne10/sahne10.unity"
+    guid: 188da025a21490c4187982d15930a507
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm1/sahne11/sahne11.unity"
+    guid: 07f4954e3e5cfb248bc5a7fe1c003571
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm1/sahne12/sahne12.unity"
+    guid: dd2c7816130fd5e4ca6d5857288c15c2
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm2/ikinci1.unity"
+    guid: 52c9e7442e7a12443a4ed14d8cb853b1
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm2/ikinci2.unity"
+    guid: 03db12069b9c0ec4b90651a4d74cf9ce
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm2/ikinci3.unity"
+    guid: 0f6b30ffaf91ca54f828ac7cbf9cf1c5
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm2/ikinci4.unity"
+    guid: 466bf463ec265a14b94e38ff46ec8228
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm2/ikinci5.unity"
+    guid: 43d9d60f136ff8741bbec2740a832b34
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm3/ucuncu1.unity"
+    guid: 797e896b2e466d147851e2d20448b734
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm3/ucuncu2.unity"
+    guid: 60675b6bac1e81242bedce7fc8db9867
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm3/ucuncu3.unity"
+    guid: c675e5148d5519b4290a8e9dc19e7b16
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm3/ucuncu4.unity"
+    guid: 8c02cda6de28dbe4f891f5f315aae871
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm3/ucuncu5.unity"
+    guid: 46681bf9874d345448a04443167a53b0
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm4/sahne6/sahne6.unity"
+    guid: 547aeadefbbf5bf448dcc9f899ce1732
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm4/sahne7/sahne7.unity"
+    guid: 939c8551bcd75314690cd01e8d43ea78
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm4/geometrik3/geo3.unity"
+    guid: a472948a67324d34c9043938e17ee11f
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm4/geometrik4/geo4.unity"
+    guid: a99dd3c824da5d94882e6fc1ada1162f
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm4/geometrik5/geo5.unity"
+    guid: 3c113390a75fde74dbf506ba559952bd
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm5/bulutlu1.unity"
+    guid: 9019e325649d45b4197724723580a2ac
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm5/bulutlu2.unity"
+    guid: 482dca1e1fd270442ae4a0bbc76602c6
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm5/bulutlu3.unity"
+    guid: 996304a1d68a2f8499adfb65c2477159
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm5/bulutlu4.unity"
+    guid: a95c7ebf346a6d441af20c43177bc887
+  - enabled: 1
+    path: "Assets/Scenes/yeniler/b\xF6l\xFCm5/bulutlu5.unity"
+    guid: 94d5c6a0695c0fd4b950ebbc0d759f6e
+  - enabled: 1
+    path: "Assets/Scenes/hakk\u0131m\u0131zda.unity"
+    guid: 313dc7b6d5f2bbe499416cf7fce1203c
+  m_configObjects: {}
